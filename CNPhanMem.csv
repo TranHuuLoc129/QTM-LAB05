@@ -1,0 +1,7 @@
+Firstname,Lastname,Fullname,Username,Password,Department,OU,Group,Group2
+Tu,Huynh Ngoc,Tu Huynh Ngoc,tuhn,P@ssw0rd,,"OU=Qualification,OU=KHOA_CNTT,DC=LABTDTU,DC=COM","CNPhanMem",
+Phuc,Duong Huu,Phuc Duong Huu,phucdh,P@ssw0rd,,"OU=Qualification,OU=KHOA_CNTT,DC=LABTDTU,DC=COM","CNPhanMem",
+Quang,Dung Cam,Quang Dung Cam,quangdc,P@ssw0rd,,"OU=Qualification,OU=KHOA_CNTT,DC=LABTDTU,DC=COM","CNPhanMem",
+Trung,Pham Tran Ky,Trung Pham Tran Ky,trungptk,P@ssw0rd,,"OU=Qualification,OU=KHOA_CNTT,DC=LABTDTU,DC=COM","CNPhanMem",
+Cuong,Trinh Phi,Cuong Tring Phi,cuongtp,P@ssw0rd,,"OU=Qualification,OU=KHOA_CNTT,DC=LABTDTU,DC=COM","CNPhanMem",
+

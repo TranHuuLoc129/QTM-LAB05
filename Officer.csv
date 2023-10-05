@@ -1,0 +1,3 @@
+Firstname,Lastname,Fullname,Username,Password,Department,OU,Group,Group2
+Giang,Tran Thi,Giang Tran Thi,giangtt,P@ssw0rd,,"OU=Office,OU=KHOA_CNTT,DC=LABTDTU,DC=COM","Officer",
+Tuyen,Tran Thi Tham,Tuyen Tran Thi Tham,tuyenttt,P@ssw0rd,,"OU=Office,OU=KHOA_CNTT,DC=LABTDTU,DC=COM","Officer",

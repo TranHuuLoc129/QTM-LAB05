@@ -1,0 +1,6 @@
+Firstname,Lastname,Fullname,Username,Password,Department,OU,Group,Group2
+Tin,Tran Trung,Tin Tran Trung,tintt,P@ssw0rd,,"OU=Qualification,OU=KHOA_CNTT,DC=LABTDTU,DC=COM","MangMayTinh",
+Anh,Bui Quy,Anh Bui Quy,anhbq,P@ssw0rd,,"OU=Qualification,OU=KHOA_CNTT,DC=LABTDTU,DC=COM","MangMayTinh",
+Thanh,Le Viet,Thanh Le Viet,thanhlv,P@ssw0rd,,"OU=Qualification,OU=KHOA_CNTT,DC=LABTDTU,DC=COM","MangMayTinh",
+Tin,Phu Tran,Tin Phu Tran,tinpt,P@ssw0rd,,"OU=Qualification,OU=KHOA_CNTT,DC=LABTDTU,DC=COM","MangMayTinh",
+Nam,Tran Thanh,Nam Tran Thanh,namtt,P@ssw0rd,,"OU=Qualification,OU=KHOA_CNTT,DC=LABTDTU,DC=COM","MangMayTinh",
