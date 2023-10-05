@@ -26,8 +26,6 @@ foreach ($u in $user){
     $fullname = $u.Fullname
     $department = $u.Department
     $OU = $u.OU
-    $g = $u.Group
-    $g2 = $u.Group2
 
      New-ADUser `
         -SamAccountName $username `
@@ -42,16 +40,6 @@ foreach ($u in $user){
         -Department $department `
         -Path $OU `
         -AccountPassword (ConvertTo-SecureString $password -AsPlainText -Force) 
-
-    
-     Add-ADGroupMember -Identity $g -Members $username
-
-     if($g2 -ne ''){
-        Add-ADGroupMember -Identity $g2 -Members $username
-     }
-
-
-    
 
  }
 
